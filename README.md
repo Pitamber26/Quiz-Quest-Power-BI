@@ -1,4 +1,4 @@
-Brain Trivia - Data Analysis - Power BI dashboard - A dashboard giving insights on the overall performance of the team with regards to various questions of topics such as Power Bi, Power Apps, Power Apps and a few general topics. 
+Quiz Quest - Data Analysis - Power BI dashboard - A dashboard giving insights on the overall performance of the team with regards to various questions of topics such as Power Bi, Power Apps, Power Apps and a few general topics. 
 
 It has three pages - The Home Page, BT Analysis and the Overall Tracker.
 
