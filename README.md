@@ -7,7 +7,7 @@ Power BI, DAX, Power Query, Data Modelling, Power Automate.
 
 # Home Page - 
 
-![image](https://github.com/user-attachments/assets/e90be715-d5d3-465c-bdd1-3bbe8034498d)
+![Uploading image.png…]()
 
 It is a landing page for the users with a pleasing appeal. It has a button taking user to the BT Analysis page. 
 
